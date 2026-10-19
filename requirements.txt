@@ -1,0 +1,7 @@
+# Pinned versions tested together for Python 3.11 and Streamlit Community Cloud.
+pandas==2.2.3
+streamlit==1.43.2
+rapidfuzz==3.14.3
+PyYAML==6.0.2
+plotly==5.24.1
+pytest==8.3.5
